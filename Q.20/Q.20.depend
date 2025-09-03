@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1756888480 source:d:\tads\atp\lista_selecao\q.20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
