@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1756858018 source:e:\tads\atp\lista_selecao\q.03\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1756872762 source:d:\tads\atp\lista_selecao\q.03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
