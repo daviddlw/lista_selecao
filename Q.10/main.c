@@ -3,7 +3,7 @@
 
 int main()
 {
-    //Faça um programa que receba um número, verifique se este número é par ou ímpar e
+    //Q.10 Faça um programa que receba um número, verifique se este número é par ou ímpar e
     //imprima a mensagem.
     //definindo a variavel
     int n;
