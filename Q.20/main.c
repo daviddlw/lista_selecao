@@ -10,7 +10,7 @@ int main(){
     float delta, x1, x2;
 
     //entrada de dados
-    printf("Digite os coeficientes da equação a b e c\n");
+    printf("Digite os coeficientes da equacao a b e c\n");
     printf("a: ");
     scanf("%f", &a);
     printf("b: ");
